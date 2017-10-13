@@ -1,3 +1,6 @@
+[![official JetBrains project](http://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub) 
+[](https://teamcity.jetbrains.com/viewType.html?buildTypeId=TeamCityPluginsByJetBrains_Widgets_TeamCityWidgetsPlugin)![](http://teamcity.jetbrains.com/app/rest/builds/buildType:TeamCityPluginsByJetBrains_Widgets_TeamCityWidgetsPlugin/statusIcon.svg)
+
 This is sample IDEA project for creating plugins for TeamCity.
 
 In this sample you will find
